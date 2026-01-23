@@ -1,0 +1,123 @@
+Aryan Kumar Singh
+Senior Analyst
+hiaryan003@gmail.com | 7020780056, 8530640639 | Pune, Maharashtra
+linkedin.com/in/aryan-kumar-singh-thunder | https://aryan-kumar-singh-6c0ucq7.gamma.site/
+
+PROFILE
+A highly skilled and dedicated Application Support & Production Support Engineer with 5+ years of experience in the IT
+industry. I specialize in ensuring system reliability and performance through proactive monitoring, troubleshooting, and
+root cause analysis. My expertise includes log analysis, production deployment, and incident management. I am
+proficient in using tools like ServiceNow, JIRA, and Dynatrace, AWS, Azure Devops, SQLServer, Python to manage and
+resolve technical issues efficiently. I excel at collaborating with cross-functional teams, including development and data
+analytics, to maintain seamless operations.
+
+EDUCATION
+Master of Business Administration (MBA - Finance),
+https://www.suryadatta.org/
+Bachelor of Business Administration in Computer Applications
+(BBACA), https://mitwpu.edu.in/
+
+SKILLS
+Programming Languages: SQL, Java, Python,PLSQL, DAX, Linux
+Web Technologies: HTML, CSS, .NET, Dynatrace, AWS, ServiceNow, Service Café
+Cloud: Azure Devops, Azure Fundamentals, AWS cloud watch, S3 bucket, AWS Connect
+Database: MySQL, PL-SQL, PostgreSQL, Oracal, Star Schema, Snowflake Schema
+Other Tool & Applications: JIRA, EazyBI, PowerBI, Tableau, Opsgenie, Postman, Excel(Pivot), YEXT, QuantumMetic,
+BeyondTrust, Eloview, Cisco Meraki, Reltio
+Software Development Methodologies: Agile, Scrum, Waterfall
+Functional: Application Support & Production Support, Incident & Problem Management, Root Cause Analysis, API
+Testing, SLA Management, Documentation, ITIL, L1/L2 Support, L3/L4 Support
+
+CERTIFICATES
+Certification
+Cyber Law, Cyber Security,
+Business Analytics
+(workshop), AZ-900: Azure
+Fundamentals, Data
+Foundations (Google),
+R Programming
+
+PROFESSIONAL EXPERIENCE
+Capgemini Technologies, SUBWAY, Senior Application Support Engineer
+•Delivered end-to-end L1/L2 application and production support for Subway and McDonald’s across US region
+managing incidents via ServiceNow, Dynatrace, and AWS CloudWatch to ensure system stability and SLA compliance.
+•Proactively Monitored and Analyzed Services: Utilized Dynatrace for in-depth service impact analysis on a live
+production server.
+•Troubleshot AWS Lambda Issues: Identified and diagnosed issues with affected AWS Lambda functions by analyzing
+distributed traces for deeper insights into service behavior and in region.
+•Conducted Root Cause Analysis: Performed backtracing of the Lambda service flow to pinpoint the exact cause of
+failures, leading to efficient and accurate issue resolution.
+•Using AWS CloudWatch, Identified the affected Lambda functions and their related services by analyzing performance
+metrics. I investigated specific timeframes and regions to pinpoint the cause of spikes in response time degradation. I
+then created targeted CloudWatch queries to isolate the issue, sharing my findings with relevant teams to facilitate a
+collaborative and timely resolution.
+•Created dynamic AWS CloudWatch queries to diagnose and understand issues related to specific restaurants, sharing
+insights with relevant teams to drive collaborative and timely resolution.
+2023 – 2025 | Pune, Maharashtra
+2017 – 2020 | Pune, Maharashtra
+2022 – Present | Pune, Maharashtra
+•Ensured timely acknowledgment of Opsgenie alerts (within 2–3 minutes) to avoid escalation, created custom
+dashboards, and interpreted critical events requiring attention, supporting smooth operations for Subway Digital.
+•Utilized Subway’s Feed Portal to manage restaurant configuration issues through various modules, including RMP
+(Restaurant Management Portal), MM (Menu Manager), and SUBS—an application containing comprehensive
+restaurant information such as policies, documents, timings, and ownership details.
+•Executed end-to-end deployment workflows in Azure DevOps triggered from ServiceNow change requests for Subway’s
+middleware services. Managed CI/CD pipelines for multiple configuration files (e.g., promotion choices, loyalty, and
+digital order), selecting appropriate branches, variables, and environments (Validation, Staging, Production). Oversaw
+approval-based deployments and uploaded configuration files to AWS S3, ensuring consistent and secure releases
+across global restaurant systems.
+•Performed comprehensive troubleshooting, bug fixes, and ticket resolution to uphold system reliability and
+performance.Conducted functional and regression testing to validate system changes, ensuring application stability
+post-enhancements or bug fixes.
+•Utilized Amazon Connect to communicate directly with live Subway stores across the West market (USA, Canada, and
+Mexico) to identify and resolve store-side issues. Collaborated with third-party delivery partners (3PD) such as
+UberEats, EZCater, DoorDash, SkipTheDishes and google to gain better insights and ensure seamless order and
+delivery operations.
+•Collaborated with clients to implement application enhancements based on their requirements, improving
+functionality and user satisfaction.
+•Delivered consistent support for database operations, application monitoring, and issue resolution through a
+combination of ServiceNow, MS SQL, and AWS, S3
+•Managed and resolved application support tickets for Subway using ServiceNow, Dynatrace, AWS CloudWatch ensuring
+efficient and timely solutions to user issues while maintaining SLA compliance.
+•Executed API deployment workflows via Postman for Subway applications, including hotfixes, bug resolutions, new
+functionality releases, and security updates. Coordinated release validation and testing with cross-functional teams to
+ensure smooth production transition and maintain system reliability.
+•Managed Subway store and kiosk machine policy/configuration data on Linux servers, including file compression and
+transfer using tar, gzip, zip, and unzip.
+•Performed Linux system administration and troubleshooting, monitored processes and logs, and securely shared
+required store/kiosk details with users via encrypted email communication.
+Capgemini Technologies, McDonald’s, A4 Analyst
+•Built out the data and reporting infrastructure from the ground up using PowerBI, JIRA, EazyBI and SQL to provide realtime insights into the product and business KPIs.
+•Developed and maintained interactive Power BI dashboards to track incidents, SLAs, and system performance,
+enabling better visibility and data-driven decision-making.
+•Collaborated with business users, collected requests, and updated the set of existing BI reports to accommodate business needs.
+•Developed and maintained KPIs to measure business performance and track progress towards goals.
+•Designed efficient Power BI data models and optimized DAX and Power Query expressions to deliver faster, more
+accurate insights for operational reporting.
+•Generated and delivered quality reports to customers by conducting quality assurance checks.
+•Experience in developing complex SQL scripts for data analysis and extraction.
+•Provided training and support to non-technical stakeholders on how to interpret and use data insights effectively.
+•Responsible for solving any queries users may have on Power BI, SharePoint application and P&L application.
+•Created EazyBI, JIRA custom queries and dashboards for McDonald’s to track day-to-day operational tasks and
+performance metrics, enabling data-driven insights and improved process visibility.
+•Maintain high service availability by meeting SLA targets and reducing average ticket resolution time by 20%.
+•Making weekly Incident/Request report.
+•Experienced in application support, incident and problem management, root cause analysis, and API testing, with a
+strong focus on SLA adherence, documentation, and continuous service improvement.
+•Reduced repetitive incidents by 25% through effective documentation of known issues and automation of JIRA
+workflows, enhancing team efficiency and incident resolution time.
+•Utilized JIRA CSV exports to extract and transform operational data by applying advanced filters, JQL queries, and SQL
+processing, enabling accurate reporting and actionable insights for decision-making.
+2021 – 2022 | Pune, Maharashtra
+•Create Knowledge Base (KB) articles, to improve team efficiency.
+•Data Modeling & Query Optimization: Designed efficient Power BI data models and optimized DAX/Power Query for
+faster insights.
+•Provided end-to-end L2/L3 Application and Production Support for McDonald’s NewPOS and restaurant systems
+across APMEA and Europe.
+•Supported McDonald’s RCT and RTM projects including environment setup, testing, and lab configuration.
+
+AWARDS
+• Runner-up, Burger Hack 2022 (McDonald’s Open Event)
+• XtraMile 2024
+• FireFighter 2025
+
